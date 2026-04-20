@@ -1,0 +1,10 @@
+flask
+werkzeug
+transformers
+torch
+torchvision
+torchaudio
+pillow
+sentencepiece
+accelerate
+requests
